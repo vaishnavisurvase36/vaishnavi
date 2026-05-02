@@ -31,8 +31,11 @@ Hello , I'm Vaishnavi survase
 💡 Passionate about automating infrastructure and building scalable cloud systems with real-world DevOps practices.
 
 📫 Connect With Me
+
 💼 LinkedIn: https://linkedin.com/in/vaishnavisurvase-713368356
+
 📧 Email: vaishnavisurvase465@gmail.com
 
 🎯 Career Goal
+
 To work in a cloud-focused engineering role and contribute to building scalable, automated infrastructure systems.
